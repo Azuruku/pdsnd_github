@@ -148,4 +148,4 @@ if __name__ == "__main__":
 The project used data provided by motivate for the three cities chicago,new york city and washington that was inform of .csv files.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I give credit to the git community that made the solutions for challenges readily available

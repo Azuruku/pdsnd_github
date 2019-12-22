@@ -37,7 +37,7 @@ def get_time_period():
     elif time_period == 'none':
         return ['none', 'no filter']
     else:
-        print("\nI'm sorry, I'm not sure which time period you're trying to filter by. Let's try again.")
+        print("Oops that time period is missing. Let's try again.")
         return get_time_period()
 
 
