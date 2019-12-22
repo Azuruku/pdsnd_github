@@ -1,5 +1,5 @@
 18/12/2019 The project was created on this given date.
-Include the date you created this project and README file.
+This project and the READNE.md file were created this 2019
 
 Bike share data of three cities in the USA
 Posting bikeshare data onto github
